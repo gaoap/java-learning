@@ -1,4 +1,4 @@
-package com.gaoap.learning;
+package com.gaoap.learning.java;
 
 import com.gaoap.learning.java.DefaultInterface;
 import com.gaoap.learning.java.FatherInterface;
