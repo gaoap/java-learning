@@ -31,7 +31,7 @@
                     </dependency>
                 </dependencies>
             </plugin>
-       </plugins>
+        </plugins>
     </build>
 
     <dependencies>
@@ -44,7 +44,12 @@
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
             <artifactId>jmh-core</artifactId>
-            <version>0.5.3</version>
+            <version>1.19</version>
+        </dependency>
+        <dependency>
+            <groupId>org.openjdk.jmh</groupId>
+            <artifactId>jmh-generator-annprocess</artifactId>
+            <version>1.19</version>
         </dependency>
         <dependency>
             <groupId>com.netflix.rxjava</groupId>
