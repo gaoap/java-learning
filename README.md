@@ -6,4 +6,8 @@
 3.自定义收集器：查看:[CustomGroupingByTest.java](src/test/java/com/gaoap/learning/java/CustomGroupingByTest.java) 和 [IntegerSumTest.java](src/test/java/com/gaoap/learning/java/IntegerSumTest.java)  
 4.使用JMH做Benchmark基准测试。查看：[JMHFirstBenchmark.java](src/main/java/com/gaoap/learning/java/JMHFirstBenchmark.java)  
 5.Fork/Join框架测试demo。查看：[ForkJoinTest.java](src/test/java/com/gaoap/learning/java/ForkJoinTest.java)  
+6.策略模式demo。查看：[Client.java](src/main/java/com/gaoap/learning/java/strategy/Client.java)   
+7.命令模式demo。查看：[Person.java](src/main/java/com/gaoap/learning/java/command/Person.java)    
+  
+  
 
