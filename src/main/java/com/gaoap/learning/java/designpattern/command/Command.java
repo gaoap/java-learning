@@ -1,4 +1,4 @@
-package com.gaoap.learning.java.command;
+package com.gaoap.learning.java.designpattern.command;
 
 /**
  * @author gaoyd

@@ -1,4 +1,4 @@
-package com.gaoap.learning.java.strategy;
+package com.gaoap.learning.java.designpattern.strategy;
 
 import java.io.IOException;
 import java.io.OutputStream;

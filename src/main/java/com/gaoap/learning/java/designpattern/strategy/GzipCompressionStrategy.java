@@ -1,21 +1,21 @@
-package com.gaoap.learning.java.strategy;
+package com.gaoap.learning.java.designpattern.strategy;
 
 import java.io.IOException;
 import java.io.OutputStream;
-import java.util.zip.ZipOutputStream;
+import java.util.zip.GZIPOutputStream;
 
 /**
  * @author gaoyd
  * @version 1.0.0
- * @ClassName ZipCompressionStrategy.java
+ * @ClassName GzipCompressionStrategy.java
  * @Description 具体策略(ConcreteStrategy)角色
  * @createTime 2021年10月12日 21:44:00
  */
-public class ZipCompressionStrategy implements CompressionStrategy {
+public class GzipCompressionStrategy implements CompressionStrategy {
 
     @Override
     public OutputStream compress(OutputStream data) throws IOException {
-        return new ZipOutputStream(data);
+        return new GZIPOutputStream(data);
     }
 
 }
