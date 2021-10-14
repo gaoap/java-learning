@@ -1,4 +1,4 @@
-package com.gaoap.learning.java.template;
+package com.gaoap.learning.java.designpattern.template;
 
 /**
  * @author gaoyd

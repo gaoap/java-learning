@@ -14,7 +14,12 @@
 推模式：[PushClient.java](src/main/java/com/gaoap/learning/java/designpattern/observer/push/PushClient.java)
 反应式编程模式：[PubsubMain.java](src/main/java/com/gaoap/learning/java/designpattern/observer/flow/PubsubMain.java)    
 9.反应式编程简单demo。查看：[PublisherTest.java](src/test/java/com/gaoap/learning/java/designpattern/observer/flow/PublisherTest.java)  
-10.模板方法简单demo。查看：[TemplateTest.java](src/test/java/com/gaoap/learning/java/template/TemplateTest.java)    
+10.模板方法简单demo。查看：[TemplateTest.java](src/test/java/com/gaoap/learning/java/template/TemplateTest.java)
+11.设计的七大原则，查看package:[/test/java/com/gaoap/learning/java/designpattern/principle](src/test/java/com/gaoap/learning/java/designpattern/principle)  
+  
+  
+  
+
 
 
 
